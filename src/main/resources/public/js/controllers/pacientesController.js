@@ -5,6 +5,7 @@ angular.module('aplicacion')
     try{
         console.log("INFO: pacientesController.inicio ");
 
+
     }catch(error){
         console.error("ERROR: pacientesController.error ", error);
     }
