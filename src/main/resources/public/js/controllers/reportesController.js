@@ -3,7 +3,7 @@ angular.module('aplicacion')
     function($scope, $rootScope) {
 
     try{
-        console.log("INFO: reportesController.inicio ");
+        console.log("INFO: reportesController.inicio1 ");
 
 
     }catch(error){
